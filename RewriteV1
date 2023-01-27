@@ -16,7 +16,7 @@ local ESP = {
     HealthOffsetX = 5,
     HealthOffsetY = -2,
     Items = true,
-    ItemOffset = 9,
+    ItemOffset = 5,
     
     Objects = setmetatable({}, {__mode="kv"}),
     Overrides = {}
